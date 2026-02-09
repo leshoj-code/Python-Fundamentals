@@ -41,8 +41,8 @@ print()
 
 
 #Assignment
-def employee(Fullname,Position,age,gender):
-    print(Fullname,Position,age,gender)
+def employee(fullname,position,age,gender):
+    print(fullname,position,age,gender)
 
 employee("Okoth Owino", "Dean of Studies", 37, "Male")
 employee("Kirk Munene", "Receptionist", 29, "Male")
